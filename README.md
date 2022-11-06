@@ -10,7 +10,7 @@
 ## Deployment
 Click the below button to deploy on replit
 
-<a href="https://replit.com/github/x1yl/profile-view-booster"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/replit.svg"></a>
+<a href="https://replit.com/github/x1yl/Ghpvc-Booster"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/replit.svg"></a>
 
 ## Setting up
 
