@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@hapi/bourne": "^3.0.0",
     "@types/node": "^18.0.6",
     "got": "^12.5.2",
     "node-fetch": "^3.2.6"
   },
-  "devDependencies": {},
   "description": ""
 }
